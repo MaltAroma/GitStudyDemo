@@ -1,1 +1,4 @@
 Hello Git!!! a change...(is branchA)
+Hello Git!!! a change...(is branchA)
+Hello Git!!! a change...(is branchA)
+a change... 
